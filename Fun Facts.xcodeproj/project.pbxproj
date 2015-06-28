@@ -14,6 +14,7 @@
 		1652CC3C1B3CEA2900255D94 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1652CC3B1B3CEA2900255D94 /* Images.xcassets */; };
 		1652CC3F1B3CEA2900255D94 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1652CC3D1B3CEA2900255D94 /* LaunchScreen.xib */; };
 		1652CC4B1B3CEA2900255D94 /* Fun_FactsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1652CC4A1B3CEA2900255D94 /* Fun_FactsTests.swift */; };
+		16D28D1E1B3FD81600D2F7BC /* ColorWheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16D28D1D1B3FD81600D2F7BC /* ColorWheel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		1652CC441B3CEA2900255D94 /* Fun FactsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fun FactsTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1652CC491B3CEA2900255D94 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1652CC4A1B3CEA2900255D94 /* Fun_FactsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fun_FactsTests.swift; sourceTree = "<group>"; };
+		16D28D1D1B3FD81600D2F7BC /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				1652CC341B3CEA2900255D94 /* AppDelegate.swift */,
+				16D28D1D1B3FD81600D2F7BC /* ColorWheel.swift */,
 				160D7B231B3E5D1E003C60B4 /* FactBook.swift */,
 				1652CC361B3CEA2900255D94 /* ViewController.swift */,
 				1652CC381B3CEA2900255D94 /* Main.storyboard */,
@@ -218,6 +221,7 @@
 				160D7B241B3E5D1E003C60B4 /* FactBook.swift in Sources */,
 				1652CC371B3CEA2900255D94 /* ViewController.swift in Sources */,
 				1652CC351B3CEA2900255D94 /* AppDelegate.swift in Sources */,
+				16D28D1E1B3FD81600D2F7BC /* ColorWheel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
