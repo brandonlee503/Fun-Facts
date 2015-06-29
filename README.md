@@ -16,3 +16,9 @@ Some iOS concepts utilized include:
 - Exception Breakpoints
 - Running on Device
 - Launch Screen and Icons
+
+## Screenshots
+
+#### Main View:
+
+![alt tag](https://github.com/brandonlee503/Fun-Facts/raw/master/Fun%20Facts%20Screenshot.png)
